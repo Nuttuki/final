@@ -1,0 +1,9 @@
+a. 	~$ mkdir git_final	
+b.	~$ cd git_final/
+	git_final$ touch ROBOT_CLASS.txt
+
+c.	git_final$ git remote add origin https://github.com/robot-class/final.git
+	git_final$ git switch -c robot-dev
+
+
+
